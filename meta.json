@@ -2,6 +2,5 @@
 "name": "miPool",
 "description": "miPool（マイプール）は、暗号通貨マイニングのプロフェッショナルチームとして、2016年からスタートし、アジアを中心に主要>暗号通貨のマイニングとブロックチェーンの基盤技術開発を行って来ました。これまでに POW 、POS系ステーキングの グなどに多くの実績とノウハウを蓄積して参りました。",
 "ticker": "MPL",
-"homepage": "https://mipool.one",
- "extended":"https://raw.githubusercontent.com/miPoolV2/ada/main/extended-metadata.json"
+"homepage": "https://mipool.one"
 }
