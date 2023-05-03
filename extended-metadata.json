@@ -1,0 +1,34 @@
+{
+    "verification":"97574ec79f128e9bb7",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "mipool",
+            "telegram_handle": "mipool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$mipool"
+        },
+        "company": {
+            "name": "miPool",
+            "addr": "Street, Number",
+            "city": "Tokyo",
+            "country": "Japan",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "...",
+            "server": " ",
+            "company": "..."
+        }
+    }
+}
